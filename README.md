@@ -9,4 +9,4 @@ This repository is for the mini projects created using python.
 
 5 python projects fully established
 
-*Python book manager*    (uploading soon with 4 more projects)
+1*Python book manager*    (uploading soon with 4 more projects)
