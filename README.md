@@ -5,7 +5,7 @@ This repository is for the mini projects created using python.
 
 ````
 
-*uploading projects!*
+*uploading projects soon!*
 
 5 python projects fully established
 
