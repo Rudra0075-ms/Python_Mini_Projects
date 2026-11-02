@@ -12,3 +12,4 @@ This repository is for the mini projects created using python.
 1) *Python book manager*    (uploading soon with 4 more projects)... uploading tomorrow...
 
 3) *Python chess game*  
+soon
