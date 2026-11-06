@@ -1,5 +1,5 @@
 
-# ♟️ Python Chess Game
+# ♟️ Python Chess Game 
 
 A desktop-based Chess Game developed using **Python, Tkinter, and python-chess**. It provides an interactive graphical interface where two players can play chess locally, follow move history, undo moves, restart the game, flip the board, claim a draw, and resign.
 
