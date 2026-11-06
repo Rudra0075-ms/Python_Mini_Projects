@@ -13,5 +13,4 @@ This repository is for the mini projects created using python.
 
 3) *Python chess game*  
 soon
-..
-//
+
