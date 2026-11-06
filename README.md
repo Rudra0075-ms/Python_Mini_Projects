@@ -44,6 +44,10 @@ python filename.py
 
 Some projects may require additional packages. Check their folder or source code for dependencies.
 
-## Author
 
-[Madhab (@Rudra0075-ms)](https://github.com/Rudra0075-ms)
+
+
+
+
+more projects coming soon!
+
