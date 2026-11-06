@@ -54,11 +54,3 @@ python img_to_pdf.py
 
 The generated PDF will be saved as `output.pdf` in the current directory.
 
-## 👨‍💻 Author
-
-**Madhab**
-
-[GitHub Profile](https://github.com/Rudra0075-ms)
-
----
-
