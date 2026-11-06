@@ -62,4 +62,3 @@ The generated PDF will be saved as `output.pdf` in the current directory.
 
 ---
 
-<p align="center">Made with ❤️ using Python</p>
