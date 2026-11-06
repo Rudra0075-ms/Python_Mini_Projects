@@ -1,16 +1,49 @@
-````
-Python_Mini_Projects
+# Python Mini Projects
 
-This repository is for the mini projects created using python.
+A collection of beginner-friendly Python programs and small projects created for learning and practice.
 
-````
+## Project Folders
 
-*uploading projects soon!*
+| Folder | Description |
+|---|---|
+| [chess_game](./chess_game/) | GUI-based two-player chess game built with Tkinter and python-chess. |
+| [projects](./projects/) | Image-to-PDF converter using Python and FPDF. |
+| [mini_projects](./mini_projects/) | Small Python programs covering basic programming concepts and problem-solving. |
 
-5 python projects fully established+++++
+## Mini Projects
 
-1) *Python book manager*    (uploading soon with 4 more projects)... 
+- Electric Bill Calculator
+- Number Guessing Game
+- Password Generator
+- Simple Calculator
+- To-Do List
+- Age Calculator
+- Bank Balance Program
+- Book Manager
+- Complex Number Operator Overloading
+- Employee Salary Calculator
+- Hotel Management Program
+- Pounds to Kilograms Converter
+- Student Mark System
+- Vector Operator Overloading
 
-3) *Python chess game*  
-soon
+## Getting Started
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Rudra0075-ms/Python_Mini_Projects.git
+cd Python_Mini_Projects
+```
+
+Open the folder of the project you want to run and execute its Python file:
+
+```bash
+python filename.py
+```
+
+Some projects may require additional packages. Check their folder or source code for dependencies.
+
+## Author
+
+[Madhab (@Rudra0075-ms)](https://github.com/Rudra0075-ms)
