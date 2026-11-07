@@ -11,7 +11,7 @@ A collection of beginner-friendly Python programs and small projects created for
 | [mini_projects](./mini_projects/) | Small Python programs covering basic programming concepts and problem-solving. |
 
 ## Mini Projects
-
+           
 - Electric Bill Calculator
 - Number Guessing Game
 - Password Generator
