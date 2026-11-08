@@ -2,7 +2,7 @@
 
 A collection of beginner-friendly Python programs and small projects created for learning and practice.
 
-## Project Folders
+## Project Folders 
 
 | Folder | Description |
 |---|---|
