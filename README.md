@@ -3,7 +3,7 @@
 A collection of beginner-friendly Python programs and small projects created for learning and practice.
 
 ## Project Folders 
-
+      
 | Folder | Description |
 |---|---|
 | [chess_game](./chess_game/) | GUI-based two-player chess game built with Tkinter and python-chess. |
