@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Local face photos and biometric encodings
+images/*
+!images/.gitkeep
+encodings/*
+!encodings/.gitkeep
+
+# Local databases and generated attendance exports
+*.db
+*.sqlite
+*.sqlite3
+attendance/*.csv
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
