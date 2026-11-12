@@ -1,6 +1,6 @@
 # Python Mini Projects 
 
-A collection of beginner-friendly Python programs and small projects created for learning and practice. Will add 
+A collection of beginner-friendly Python programs and small projects created for learning and practice. Will add a few more projects soon...
 
 ## Project Folders 
       
