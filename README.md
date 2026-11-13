@@ -15,7 +15,7 @@ The repository includes beginner-friendly programs as well as larger projects th
 
 ## Featured projects
 
-### 1. Face Recognition Attendance System
+### 1. Face Recognition Attendance System 
 
 A local attendance-tracking prototype built with Python, OpenCV, the `face_recognition` library, and SQLite.
 
